@@ -1,0 +1,2 @@
+paramiko == 3.5.*
+python-dotenv == 1.1.*
