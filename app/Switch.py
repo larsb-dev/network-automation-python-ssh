@@ -1,4 +1,4 @@
-from app.Device import Device
+from Device import Device
 
 class Switch(Device):
     def __init__(self, hostname, port, username):
