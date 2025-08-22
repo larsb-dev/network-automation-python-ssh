@@ -104,6 +104,10 @@ python3 main.py
 
 One of the biggest limitations of the software at this point is that it can basically only configure one switch at a time. It is necessary to update the environment variable values every time another switch needs to be configured.
 
-A possible solution to this limitation would be to create a JSON array of switches as an environment variable. After that, loop through the JSON array, create an object of type Switch for each item and add it to a list. Finally, iterate over the list of Switch objects and push the configuration file.
+A possible solution to this limitation would be to create a JSON array of switches as an environment variable. After that, loop through the JSON array, create an object of type `Switch` for each item and add it to a list. Finally, iterate over the list of `Switch` objects and push the configuration file.
 
-The benefits of automation haven't really become apparent to me by only configuring two switches. However, automation really shines when dozens or potentially even hundreds of the devices need to be configured the same or at least share a very similar configuration.
+The benefits of automation haven't really become apparent to me by only configuring two switches. However, automation really shines when dozens of devices need to be configured the same or at least share a very similar configuration.
+
+## Contact
+
+You can reach me at [lars@larsb.dev](mailto:lars@larsb.dev).
