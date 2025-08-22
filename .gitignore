@@ -5,4 +5,5 @@ __pycache__/
 .env
 docs/
 !docs/class-diagram.png
+!docs/thumbnail.jpg
 device_configs/

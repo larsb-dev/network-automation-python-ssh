@@ -1,5 +1,7 @@
 # Network Automation with Python and SSH
 
+![Project thumbnail](docs/thumbnail.jpg)
+
 ## About
 
 This is an object-oriented programming project that focuses on the use of Python to automate the configuration of network devices via SSH. The main goal of this project is to learn how to leverage code to reduce the amount of manual configurations on network devices. The Python application has been tested on two Cisco Catalyst 2960-X Series switches which means that the rest of this document is in part written from the perspective of Cisco switches. 
